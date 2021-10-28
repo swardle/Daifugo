@@ -1,0 +1,1416 @@
+fileFormatVersion: 2
+guid: c10d34533aefb449aa8f594f0d7c9839
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3949676375109338641
+    second: trumpcard_0
+  - first:
+      213: -8644695536170146706
+    second: trumpcard_1
+  - first:
+      213: -6762893313251824278
+    second: trumpcard_2
+  - first:
+      213: -1373633588488338678
+    second: trumpcard_3
+  - first:
+      213: -5367696352630839332
+    second: trumpcard_4
+  - first:
+      213: -9186719896619972039
+    second: trumpcard_5
+  - first:
+      213: 5962409653272691063
+    second: trumpcard_6
+  - first:
+      213: -8109183888048235609
+    second: trumpcard_7
+  - first:
+      213: -8539599081632672871
+    second: trumpcard_8
+  - first:
+      213: 4335089167598400772
+    second: trumpcard_9
+  - first:
+      213: -9192560762862966907
+    second: trumpcard_10
+  - first:
+      213: -5239643413823441124
+    second: trumpcard_11
+  - first:
+      213: -6851059076008539101
+    second: trumpcard_12
+  - first:
+      213: 4989569964408926089
+    second: trumpcard_13
+  - first:
+      213: 1496074143302739902
+    second: trumpcard_14
+  - first:
+      213: 752102181462970036
+    second: trumpcard_15
+  - first:
+      213: -3984792091316689090
+    second: trumpcard_16
+  - first:
+      213: -6709963500480517714
+    second: trumpcard_17
+  - first:
+      213: 2471882344522210203
+    second: trumpcard_18
+  - first:
+      213: -1245767987292735544
+    second: trumpcard_19
+  - first:
+      213: -2023504071487577927
+    second: trumpcard_20
+  - first:
+      213: 8531096079452478418
+    second: trumpcard_21
+  - first:
+      213: -6031295961208500764
+    second: trumpcard_22
+  - first:
+      213: 4247557790195507741
+    second: trumpcard_23
+  - first:
+      213: 5082298851147042582
+    second: trumpcard_24
+  - first:
+      213: -5168667398264012522
+    second: trumpcard_25
+  - first:
+      213: -7718509384112052383
+    second: trumpcard_26
+  - first:
+      213: 904410744823614324
+    second: trumpcard_27
+  - first:
+      213: -5921435278861686808
+    second: trumpcard_28
+  - first:
+      213: -5572437316227585414
+    second: trumpcard_29
+  - first:
+      213: 2196475234405390431
+    second: trumpcard_30
+  - first:
+      213: 931105346519300633
+    second: trumpcard_31
+  - first:
+      213: 1224076856172514342
+    second: trumpcard_32
+  - first:
+      213: -4536311583103074662
+    second: trumpcard_33
+  - first:
+      213: 7190790641713744787
+    second: trumpcard_34
+  - first:
+      213: -7414169319586192505
+    second: trumpcard_35
+  - first:
+      213: 7422702524494158644
+    second: trumpcard_36
+  - first:
+      213: -5475017355486205071
+    second: trumpcard_37
+  - first:
+      213: -9050381219768392697
+    second: trumpcard_38
+  - first:
+      213: -7167080308341775379
+    second: trumpcard_39
+  - first:
+      213: 6296198735166606784
+    second: trumpcard_40
+  - first:
+      213: -3966728760365656310
+    second: trumpcard_41
+  - first:
+      213: -9023099676357030901
+    second: trumpcard_42
+  - first:
+      213: 5702276728171803068
+    second: trumpcard_43
+  - first:
+      213: 4950922692246057702
+    second: trumpcard_44
+  - first:
+      213: 655100358820708811
+    second: trumpcard_45
+  - first:
+      213: 2581041984367375255
+    second: trumpcard_46
+  - first:
+      213: 2962462337947242032
+    second: trumpcard_47
+  - first:
+      213: 1287971514922918664
+    second: trumpcard_48
+  - first:
+      213: -6801252755378154875
+    second: trumpcard_49
+  - first:
+      213: -5878071658123513366
+    second: trumpcard_50
+  - first:
+      213: -1260796447042077927
+    second: trumpcard_51
+  - first:
+      213: -1215192162927384109
+    second: trumpcard_52
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trumpcard_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1344
+        width: 208
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9fadb534eef29c0800000000000000
+      internalID: -3949676375109338641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1024
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e646c2f163fd70880800000000000000
+      internalID: -8644695536170146706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1024
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6da2c9ec506522a0800000000000000
+      internalID: -6762893313251824278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_3
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1024
+        width: 208
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a038b92778fdfece0800000000000000
+      internalID: -1373633588488338678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd767474b9c1285b0800000000000000
+      internalID: -5367696352630839332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_5
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1024
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a04f66de6328080800000000000000
+      internalID: -9186719896619972039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_6
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1024
+        width: 210
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771cdac4dfbbeb250800000000000000
+      internalID: 5962409653272691063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_7
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1024
+        width: 210
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab5096d734667f80800000000000000
+      internalID: -8109183888048235609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_8
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1024
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993580741ef3d7980800000000000000
+      internalID: -8539599081632672871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_9
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 1024
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405b85031a4592c30800000000000000
+      internalID: 4335089167598400772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_10
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 1024
+        width: 211
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587eb51c0b67d6080800000000000000
+      internalID: -9192560762862966907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_11
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 1024
+        width: 211
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17b651731c0947b0800000000000000
+      internalID: -5239643413823441124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_12
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 1024
+        width: 211
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c8b4f91162ce0a0800000000000000
+      internalID: -6851059076008539101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_13
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 1024
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f6d8e52738e3540800000000000000
+      internalID: 4989569964408926089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_14
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 705
+        width: 209
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7e43db18f13c410800000000000000
+      internalID: 1496074143302739902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_15
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 706
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be85e003f0007a00800000000000000
+      internalID: 752102181462970036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_16
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 707
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37684d84bc23b8c0800000000000000
+      internalID: -3984792091316689090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_17
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 705
+        width: 209
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9a50a4fbb61e2a0800000000000000
+      internalID: -6709963500480517714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_18
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 704
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b5ecf45e3ed4220800000000000000
+      internalID: 2471882344522210203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_19
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 702
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7fcdcad9426bee0800000000000000
+      internalID: -1245767987292735544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_20
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 702
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b02d6994c11be3e0800000000000000
+      internalID: -2023504071487577927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_21
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 702
+        width: 210
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db1e704faa846670800000000000000
+      internalID: 8531096079452478418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_22
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 702
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed4be847488c4ca0800000000000000
+      internalID: -6031295961208500764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_23
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 702
+        width: 208
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12eb8f3e4b52fa30800000000000000
+      internalID: 4247557790195507741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_24
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 702
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fcef0c0e3f78640800000000000000
+      internalID: 5082298851147042582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_25
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 702
+        width: 210
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611c454d2643548b0800000000000000
+      internalID: -5168667398264012522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_26
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 702
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1676b7c0c9852e490800000000000000
+      internalID: -7718509384112052383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 385
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b0248d7cc1d8c00800000000000000
+      internalID: 904410744823614324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_28
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 384
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7abfaacf5d2dda0800000000000000
+      internalID: -5921435278861686808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_29
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 385
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7aaf11f8c9baa2b0800000000000000
+      internalID: -5572437316227585414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_30
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 385
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f581da896927b7e10800000000000000
+      internalID: 2196475234405390431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_31
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 383
+        width: 209
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91affb32163fbec00800000000000000
+      internalID: 931105346519300633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_32
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 383
+        width: 210
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c80fd4a6bccf010800000000000000
+      internalID: 1224076856172514342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_33
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 383
+        width: 210
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9eb6aa46a8cb01c0800000000000000
+      internalID: -4536311583103074662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_34
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 383
+        width: 209
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b0d8d7df1dac360800000000000000
+      internalID: 7190790641713744787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_35
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 383
+        width: 209
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783277929449b1990800000000000000
+      internalID: -7414169319586192505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_36
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 383
+        width: 211
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b9edd6e9cb20760800000000000000
+      internalID: 7422702524494158644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_37
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 383
+        width: 211
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b652b19b4d404b0800000000000000
+      internalID: -5475017355486205071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_38
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 383
+        width: 211
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704a6d94b36966280800000000000000
+      internalID: -9050381219768392697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_39
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 383
+        width: 209
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de36790be6a698c90800000000000000
+      internalID: -7167080308341775379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_40
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 59
+        width: 210
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd8ed41467906750800000000000000
+      internalID: 6296198735166606784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_41
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 60
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a075416853953f8c0800000000000000
+      internalID: -3966728760365656310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_42
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 60
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c0cc996a287c280800000000000000
+      internalID: -9023099676357030901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_43
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 60
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb138a9e87e822f40800000000000000
+      internalID: 5702276728171803068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_44
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 57
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e23fbd15f535b440800000000000000
+      internalID: 4950922692246057702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_45
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 57
+        width: 211
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc14db33e42671900800000000000000
+      internalID: 655100358820708811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_46
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 56
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79336948204b1d320800000000000000
+      internalID: 2581041984367375255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_47
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 54
+        width: 210
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e81d1fcc7cc1920800000000000000
+      internalID: 2962462337947242032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_48
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 54
+        width: 210
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8036dc3d44bcfd110800000000000000
+      internalID: 1287971514922918664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_49
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 54
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582d90057a81d91a0800000000000000
+      internalID: -6801252755378154875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_50
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 54
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1b14568f4ec6ea0800000000000000
+      internalID: -5878071658123513366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_51
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 54
+        width: 210
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b7bf7bf40c08ee0800000000000000
+      internalID: -1260796447042077927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trumpcard_52
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 54
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9efda8a25c22fe0800000000000000
+      internalID: -1215192162927384109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
